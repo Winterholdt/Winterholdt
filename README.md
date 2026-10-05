@@ -32,7 +32,7 @@ I bridge the gap between business processes and technical software architecture.
 
 ## 📂 Featured Project (Public)
 
-### [ZUGFeRD & E-Invoicing MCP Server](https://github.com/winterholdt/invoice-mcp-bridge)
+### [ZUGFeRD & E-Invoicing MCP Server]([https://github.com/winterholdt/invoice-mcp-bridge](https://github.com/Winterholdt/invoice-bridge-mcp))
 * **Overview:** A Python-based Model Context Protocol (MCP) server enabling Large Language Models to inspect, validate, and process structured B2B electronic invoices (ZUGFeRD / Factur-X).
 * **Key Features:** Tax compliance validation (§ 14 UStG / EN 16931), automated Purchase Order (PO) matching, and ERP/accounting batch export.
 * **Tech:** Python, FastMCP, XML Parsing.
