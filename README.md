@@ -34,7 +34,7 @@ I bridge the gap between business processes and technical software architecture.
 
 ### [ZUGFeRD & E-Invoicing MCP Server](https://github.com/Winterholdt/invoice-bridge-mcp)
 * **Overview:** A Python-based Model Context Protocol (MCP) server enabling Large Language Models to inspect, validate, and process structured B2B electronic invoices (ZUGFeRD / Factur-X).
-* **Key Features:** Tax compliance validation (§ 14 UStG / EN 16931), automated Purchase Order (PO) matching, and ERP/accounting batch export.
+* **Key Features:** Tax compliance validation (§ 14 UStG / EN 16931), XML extraction from PDf.
 * **Tech:** Python, FastMCP, XML Parsing.
 
 *(Note: My core enterprise applications involving Java Spring Boot, MariaDB, and Quasar Vue are proprietary corporate projects governed by NDAs and cannot be shared publicly.)*
