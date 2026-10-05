@@ -1,4 +1,4 @@
-# Hi, I'm [Your First Name] 👋
+# Hi, I'm Anton 👋
 
 **Cooperative State University Student in Business Informatics | Aspiring IT Consultant & Integration Specialist**
 
@@ -32,7 +32,7 @@ I bridge the gap between business processes and technical software architecture.
 
 ## 📂 Featured Project (Public)
 
-### [ZUGFeRD & E-Invoicing MCP Server](https://github.com/<YOUR-USERNAME>/<YOUR-REPO-NAME>)
+### [ZUGFeRD & E-Invoicing MCP Server](https://github.com/winterholdt/invoice-mcp-bridge)
 * **Overview:** A Python-based Model Context Protocol (MCP) server enabling Large Language Models to inspect, validate, and process structured B2B electronic invoices (ZUGFeRD / Factur-X).
 * **Key Features:** Tax compliance validation (§ 14 UStG / EN 16931), automated Purchase Order (PO) matching, and ERP/accounting batch export.
 * **Tech:** Python, FastMCP, XML Parsing.
